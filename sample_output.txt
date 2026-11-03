@@ -7,11 +7,7 @@ Topper List (top 3):
 2. Pooja Verma (S122) - GPA 10.00
 3. Riya Mehta (S116) - GPA 10.00
 
-Faculty Report:
-Students: 35
-Class Average GPA: 8.07
-
-Admin Report:
+Admin Report - Admin User
 Total records: 35
 Overall Average GPA: 8.07
 Data status: ACTIVE
