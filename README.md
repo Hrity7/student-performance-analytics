@@ -85,10 +85,10 @@ sample_output.txt     Example of the analytics output
 This project was developed as a collaborative effort by our team as part of our academic Project-Based Learning (PBL).
 
 - **Hritwiz Verma** – [@Hrity7](https://github.com/Hrity7)
-- **Faiz Hussain** – [FaizHussain78](https://github.com/FaizHussain78)
-- **Krish Dubey** – [krishxdubey](https://github.com/krishxdubey)
-- **Manish Chauhan** – [manishxchauhan](https://github.com/manishxchauhan)
-- **Ishaan Singh** - [singhishaan505-ui](https://github.com/singhishaan505-ui)
+- **Faiz Hussain** – [@FaizHussain78](https://github.com/FaizHussain78)
+- **Krish Dubey** – [@krishxdubey](https://github.com/krishxdubey)
+- **Manish Chauhan** – [@manishxchauhan](https://github.com/manishxchauhan)
+- **Ishaan Singh** - [@singhishaan505-ui](https://github.com/singhishaan505-ui)
   
 All team members contributed to the planning, development, and implementation of this project.
 
