@@ -1,0 +1,17 @@
+Student Academic Performance Analytics System - Sample Run
+
+Loaded 35 local records.
+
+Topper List (top 3):
+1. Anika Bansal (S130) - GPA 10.00
+2. Pooja Verma (S122) - GPA 10.00
+3. Riya Mehta (S116) - GPA 10.00
+
+Faculty Report:
+Students: 35
+Class Average GPA: 8.07
+
+Admin Report:
+Total records: 35
+Overall Average GPA: 8.07
+Data status: ACTIVE
